@@ -1,1 +1,11 @@
 || -------- FUNCIONALIDADES DO PROJETO --------||
+
+Criar e organizar um repositório colaborativo no GitHub.
+
+Dividir tarefas entre os membros usando branches diferentes.
+
+Registrar o histórico de alterações (commits) de forma clara.
+
+Integrar código (merge) sem perder trabalho de ninguém.
+
+Resolver conflitos de edição de maneira correta quando eles ocorrerem.
