@@ -1,6 +1,6 @@
-Membro 1 - Dono do Repositório: Ana Maria Ribeiro Lantiê
-Membro 2 - Funcionalidades: Laura de Jesus Souza
-Membro 3 - Técnologias: Anna Clara de Santana Vieira
+Membro- Dono do Repositório: Ana Maria Ribeiro Lantiê
+
 
 Funções:  criar um novo repositório VAZIO no GitHub e fazer o push inicial do README.md e do equipe.txt (apenas com o nome dele), Clonar e Sincronizar, fazer o git pull das alterações e integrar (merge) o trabalho do Membro 2 na branch principal (main), Criação do Conflito e aplicar a Tag de Versão final na branch main e enviá-la ao remoto.
+
 
